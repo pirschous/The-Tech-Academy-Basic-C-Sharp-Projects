@@ -19,6 +19,7 @@ namespace ShippingQuoteApp
             {
                 Console.WriteLine("Package is too heavy to be shipped via Package Express. Have a good day!");
                 Console.ReadLine();
+                return;
             }
 
             Console.WriteLine("Please enter the package width:");
@@ -35,6 +36,7 @@ namespace ShippingQuoteApp
             {
                 Console.WriteLine("Package too big to be shipped via Package Express. ");
                 Console.ReadLine();
+                return;
             }
 
             int quote = (packageWidth * packageHeight * packageLength * packageWeight) / 100;
