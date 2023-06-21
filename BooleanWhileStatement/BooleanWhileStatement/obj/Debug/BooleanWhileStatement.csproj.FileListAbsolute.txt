@@ -1,0 +1,7 @@
+C:\Users\james\source\repos\BooleanWhileStatement\BooleanWhileStatement\bin\Debug\BooleanWhileStatement.exe.config
+C:\Users\james\source\repos\BooleanWhileStatement\BooleanWhileStatement\bin\Debug\BooleanWhileStatement.exe
+C:\Users\james\source\repos\BooleanWhileStatement\BooleanWhileStatement\bin\Debug\BooleanWhileStatement.pdb
+C:\Users\james\source\repos\BooleanWhileStatement\BooleanWhileStatement\obj\Debug\BooleanWhileStatement.csproj.AssemblyReference.cache
+C:\Users\james\source\repos\BooleanWhileStatement\BooleanWhileStatement\obj\Debug\BooleanWhileStatement.csproj.CoreCompileInputs.cache
+C:\Users\james\source\repos\BooleanWhileStatement\BooleanWhileStatement\obj\Debug\BooleanWhileStatement.exe
+C:\Users\james\source\repos\BooleanWhileStatement\BooleanWhileStatement\obj\Debug\BooleanWhileStatement.pdb
