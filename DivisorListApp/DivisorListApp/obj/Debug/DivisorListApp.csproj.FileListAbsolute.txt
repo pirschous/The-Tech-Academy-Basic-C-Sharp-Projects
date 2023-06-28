@@ -1,0 +1,6 @@
+C:\Users\james\source\repos\DivisorListApp\DivisorListApp\bin\Debug\DivisorListApp.exe.config
+C:\Users\james\source\repos\DivisorListApp\DivisorListApp\bin\Debug\DivisorListApp.exe
+C:\Users\james\source\repos\DivisorListApp\DivisorListApp\bin\Debug\DivisorListApp.pdb
+C:\Users\james\source\repos\DivisorListApp\DivisorListApp\obj\Debug\DivisorListApp.csproj.CoreCompileInputs.cache
+C:\Users\james\source\repos\DivisorListApp\DivisorListApp\obj\Debug\DivisorListApp.exe
+C:\Users\james\source\repos\DivisorListApp\DivisorListApp\obj\Debug\DivisorListApp.pdb
