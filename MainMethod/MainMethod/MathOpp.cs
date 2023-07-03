@@ -32,20 +32,15 @@ namespace MainMethod
         // Another method that perform a different math operation
         public int PerfromOperation(string input)
         {
-            // Converts the string to an integer
-            int num = int.Parse(input);
             
             
             // Performs a different math operation
-            int result = num - 5;
+            int result = Convert.ToInt32(input);
 
             // Return the result as an integer
-            return result;
+            return result -5;
         }
 
-        internal int PerformOperation(string inputString)
-        {
-            throw new NotImplementedException();
-        }
+              
     }
 }
