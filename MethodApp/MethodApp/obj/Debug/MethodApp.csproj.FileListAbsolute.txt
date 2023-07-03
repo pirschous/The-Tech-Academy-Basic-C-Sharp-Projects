@@ -1,0 +1,6 @@
+C:\Users\james\source\repos\MethodApp\MethodApp\bin\Debug\MethodApp.exe.config
+C:\Users\james\source\repos\MethodApp\MethodApp\bin\Debug\MethodApp.exe
+C:\Users\james\source\repos\MethodApp\MethodApp\bin\Debug\MethodApp.pdb
+C:\Users\james\source\repos\MethodApp\MethodApp\obj\Debug\MethodApp.csproj.CoreCompileInputs.cache
+C:\Users\james\source\repos\MethodApp\MethodApp\obj\Debug\MethodApp.exe
+C:\Users\james\source\repos\MethodApp\MethodApp\obj\Debug\MethodApp.pdb
