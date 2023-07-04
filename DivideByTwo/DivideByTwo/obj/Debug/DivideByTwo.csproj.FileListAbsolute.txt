@@ -1,0 +1,7 @@
+C:\Users\james\source\repos\DivideByTwo\DivideByTwo\obj\Debug\DivideByTwo.csproj.AssemblyReference.cache
+C:\Users\james\source\repos\DivideByTwo\DivideByTwo\obj\Debug\DivideByTwo.csproj.CoreCompileInputs.cache
+C:\Users\james\source\repos\DivideByTwo\DivideByTwo\bin\Debug\DivideByTwo.exe.config
+C:\Users\james\source\repos\DivideByTwo\DivideByTwo\bin\Debug\DivideByTwo.exe
+C:\Users\james\source\repos\DivideByTwo\DivideByTwo\bin\Debug\DivideByTwo.pdb
+C:\Users\james\source\repos\DivideByTwo\DivideByTwo\obj\Debug\DivideByTwo.exe
+C:\Users\james\source\repos\DivideByTwo\DivideByTwo\obj\Debug\DivideByTwo.pdb
