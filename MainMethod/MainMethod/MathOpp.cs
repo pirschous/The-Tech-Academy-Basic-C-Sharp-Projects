@@ -30,7 +30,7 @@ namespace MainMethod
         }
 
         // Another method that perform a different math operation
-        public int PerfromOperation(string input)
+        public int PerformOperation(string input)
         {
             
             
@@ -40,7 +40,6 @@ namespace MainMethod
             // Return the result as an integer
             return result -5;
         }
-
-              
+      
     }
 }
