@@ -1,0 +1,7 @@
+C:\Users\james\source\repos\PolymorphismSub\PolymorphismSub\bin\Debug\PolymorphismSub.exe.config
+C:\Users\james\source\repos\PolymorphismSub\PolymorphismSub\bin\Debug\PolymorphismSub.exe
+C:\Users\james\source\repos\PolymorphismSub\PolymorphismSub\bin\Debug\PolymorphismSub.pdb
+C:\Users\james\source\repos\PolymorphismSub\PolymorphismSub\obj\Debug\PolymorphismSub.csproj.AssemblyReference.cache
+C:\Users\james\source\repos\PolymorphismSub\PolymorphismSub\obj\Debug\PolymorphismSub.csproj.CoreCompileInputs.cache
+C:\Users\james\source\repos\PolymorphismSub\PolymorphismSub\obj\Debug\PolymorphismSub.exe
+C:\Users\james\source\repos\PolymorphismSub\PolymorphismSub\obj\Debug\PolymorphismSub.pdb
