@@ -1,0 +1,7 @@
+C:\Users\james\source\repos\OperatorSub\OperatorSub\obj\Debug\OperatorSub.csproj.AssemblyReference.cache
+C:\Users\james\source\repos\OperatorSub\OperatorSub\obj\Debug\OperatorSub.csproj.CoreCompileInputs.cache
+C:\Users\james\source\repos\OperatorSub\OperatorSub\bin\Debug\OperatorSub.exe.config
+C:\Users\james\source\repos\OperatorSub\OperatorSub\bin\Debug\OperatorSub.exe
+C:\Users\james\source\repos\OperatorSub\OperatorSub\bin\Debug\OperatorSub.pdb
+C:\Users\james\source\repos\OperatorSub\OperatorSub\obj\Debug\OperatorSub.exe
+C:\Users\james\source\repos\OperatorSub\OperatorSub\obj\Debug\OperatorSub.pdb
