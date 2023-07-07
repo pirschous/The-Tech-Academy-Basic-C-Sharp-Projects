@@ -13,13 +13,10 @@ namespace PolymorphismSub
             // Use to create an object of type IQuittable and call the Quit() method
 
             // Create an instance of the Employee class
-            Employee employee = new Employee { Name = "James" };
-
-            // Creat an object of type IQuittable and assign employee instance
-            IQuittable quittable = employee;
+            IQuittable employee = new Employee();
 
             // Call the Quit() method on the quittable object
-            quittable.Quit();
+            employee.Quit();
 
             // Wait for user input before closing the console window
             Console.ReadLine();
