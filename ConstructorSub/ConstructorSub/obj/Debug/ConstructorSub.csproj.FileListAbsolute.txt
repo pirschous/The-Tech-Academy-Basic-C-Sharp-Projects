@@ -1,0 +1,7 @@
+C:\Users\james\source\repos\ConstructorSub\ConstructorSub\obj\Debug\ConstructorSub.csproj.AssemblyReference.cache
+C:\Users\james\source\repos\ConstructorSub\ConstructorSub\obj\Debug\ConstructorSub.csproj.CoreCompileInputs.cache
+C:\Users\james\source\repos\ConstructorSub\ConstructorSub\bin\Debug\ConstructorSub.exe.config
+C:\Users\james\source\repos\ConstructorSub\ConstructorSub\bin\Debug\ConstructorSub.exe
+C:\Users\james\source\repos\ConstructorSub\ConstructorSub\bin\Debug\ConstructorSub.pdb
+C:\Users\james\source\repos\ConstructorSub\ConstructorSub\obj\Debug\ConstructorSub.exe
+C:\Users\james\source\repos\ConstructorSub\ConstructorSub\obj\Debug\ConstructorSub.pdb
