@@ -8,7 +8,7 @@ These are some small projects I made using C# and >NET Framework
 
 ```bash
 Car Insurance
-NFL Stats
+Twenty One Game
 ```
 
 ## Car Insurance
@@ -17,8 +17,8 @@ on policy information and calculates a quote based on business logic. There is a
 page that allows staff to view all of the quotes that have been issued. 
 
 
-## NFL Stats
+## Twenty One Game
 
-This is a data visualization application that is meant to store and display football stats for the
-purposes of fantasy football. It is an MVC web application that utilizes Entity Framework 6 for 
+This is a data visualization application that is meant to store and display cards from the card game 21. 
+It is an MVC web application that utilizes Entity Framework 6 for 
 data access and a Code First workflow. It is still a work in progress. 
